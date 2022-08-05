@@ -8,7 +8,7 @@
 int main()
 {
 	char input[12];
-	char output[12];
+	char output[12] = {0};
 	char c;
 	int i = 0;
 
